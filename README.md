@@ -1,5 +1,5 @@
-#### _Read this in [other languages](translations/Translations.md)._
-<kbd>[<img title="Bahasa Indonesia" alt="Bahasa Indonesia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">](/translations/README-id.md)</kbd>
+#### _Read this in [other languages](translations/README-id.md)._
+<kbd>[<img title="Bahasa Indonesia" alt="Bahasa Indonesia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">](./translations/README-id.md)</kbd>
 
 
 # StarlightRunaway
