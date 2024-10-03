@@ -1,11 +1,7 @@
-#### _Read this in [other languages](translations/Translations.md)._
-<kbd>[<img title="Bahasa Indonesia" alt="Bahasa Indonesia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/id.svg" width="22">](/translations/README-id.md)</kbd>
-
-
 # StarlightRunaway
- Starlight Runaway is a 2D space adventure where you play as Kai Nova, a smuggler who discovers a powerful AI artifact. Explore alien planets, engage in space combat, and make crucial decisions that shape the galaxy’s future. With the help of your engineer companion Elara, upgrade your ship and navigate a world of danger and intrigue.
+ Starlight Runaway adalah petualangan ruang angkasa 2D di mana kamu bermain sebagai Kai Nova, seorang penyelundup yang menemukan artefak AI yang sangat kuat. Jelajahi planet-planet alien, terlibat dalam pertempuran luar angkasa, dan buat keputusan penting yang akan membentuk masa depan galaksi. Dengan bantuan rekan insinyurmu, Elara, tingkatkan kapalmu dan navigasi dunia penuh bahaya dan intrik.
 
-<h1 align="center">Getting Started with Starlight Runaway </h1> 
+<h1 align="center">Memulai Petualangan dengan Starlight Runaway </h1> 
 <br>
 
 <div align="center">
@@ -37,48 +33,48 @@
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </div>
 
-## Before you Start Check your unity Version
-**Should be use this version for game**
+## Sebelum memulai periksa lagi versi Unity mu
+**Harus menggunakan versi ini untuk game**
 
 ![Unity Version](https://github.com/user-attachments/assets/c4afcc25-0db9-4ea3-b37a-93fb55e0102b)
 
 <h2>Table of Contents</h2>
 <ol>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#getting-started">Lesson Requests</a></li>
-    <li><a href="#contribute">Contributing</a></li>
+    <li><a href="#getting-started">Memulai</a></li>
+    <li><a href="#getting-started">Pembelajaran Request</a></li>
+    <li><a href="#contribute">Memulai kontribusi</a></li>
     <li><a href="#prs">Pull Requests</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#license">Lisensi</a></li>
 </ol>
 
 
-## **Getting Started**
+## **Memulai**
 
-For the quick start, you can follow the steps below:
+Untuk Memulai, kamu bisa memulai step ini:
 
-1. Star <a href="https://github.com/Buddhad/StarlightRunaway" title="this">this</a> repository.
-2. Fork <a href="https://github.com/Buddhad/StarlightRunaway" title="this">this</a> repository.
+1. Bintangi repositori <a href="https://github.com/Buddhad/StarlightRunaway" title="ini">ini</a>.
+2. Fork repositori <a href="https://github.com/Buddhad/StarlightRunaway" title="ini">ini</a>.
 3. Clone the **forked** repository.
 
 ```yml
 git clone https://github.com/<your-github-username>/StarlightRunaway.git
 ```
-3. Navigate to the project directory.
+3. Navigasi ke direktori projek.
 
 ```py
 cd StarlightRunaway
 ```
 
-4. Create a new branch.
+4. Buat branch baru.
 
 ```yml
 git checkout -b <your_branch_name>
 ```
 
 
-5. Check this out. [Contribute](./CONTRIBUTING.md)
+5. Cek ini. [Contribute](./CONTRIBUTING.md)
    
-6. Stage your changes and commit
+6. Tahap perubahanmu dan lakukan commit
 
 ```css
 git add -a
@@ -86,29 +82,29 @@ git add -a
 git commit -m "<your_commit_message>"
 ```
 
-7. Push your local commits to the remote repo.
+7. Push local commitmu ke remote repo.
 
 ```yml
 git push -u origin <your_branch_name>
 ```
 
-8. Create a <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" title="Pull Request">Pull-Request</a> to `main`.
+8. Buat sebuah <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" title="Pull Request">Pull-Request</a> ke branch `main`.
 
-9. Congratulations! 🎉 you've made your contribution to <a href="https://github.com/Buddhad/StarlightRunaway" title="StarlightRunaway">Starlight Runaway Game </a>. ✌️ ❤️ 💥
+9. Selamat! 🎉 kamu sudah membuat kontribusi ke <a href="https://github.com/Buddhad/StarlightRunaway" title="StarlightRunaway">Starlight Runaway Game </a>. ✌️ ❤️ 💥
 
 <h2 id="contribute">Contributing</h2>
 <p>
-   Thank you for your interest in contributing to our Repo! Pull requests are welcome. For fixing typos, please make a PR with your fixes. For other contributions, we suggest you to read our <a href="/CONTRIBUTING.md">contribution guidelines</a> to see how you can contribute to this project. We are happy for every contribution. 
+   Terima kasih atas minatmu untuk berkontribusi di repositori kami! Pull request anda akan sangat kami terima. Untuk kontribusi lainnya, kami sarankan membaca <a href="/CONTRIBUTING.md">panduan kontribusi</a> kami agar kamu bisa melihat cara untuk kontribusi pada proyek ini. Kami sangat menghargai tiap kontribusi. 
     
 </p>
 
 <h2 id="prs">Issues & Pull Requests</h2>
 
-Before making pull requests please look at our contributing guidelines. You can start working on the issue which are mentioned in issues section. Just drop a comment before working on the issue. Thank you!
+Sebelum membuat pull request tolong untuk melihat ke panduan kontribusi kami. Kamu dapat memulai bekerja pada issue yang sudah disebutkan kedalam issues section. Berikan comment sebelum kerja pada sebuah Issue. Terima kasih!
 
-<h2 id="license">License</h2>
+<h2 id="license">Lisensi</h2>
 
-The **code** is this repo is licensed under the MIT license. Feel free to use and share it as per the license.
+The **Code** is this repo is licensed under the MIT license. Feel free to use and share it as per the license.
 
 <br>
 
